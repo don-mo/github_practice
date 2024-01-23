@@ -6,6 +6,7 @@ public class Main {
 		PrintStream output = new PrintStream("C:\\Users\\donmo\\Downloads\\test.txt");
 		output.println("Does this work?"); // IT WORKSSSSSSSSSSSSSSS
 		output.println("rewrite sadly");
+		output.println("Ayyo!");
 		
 	}
 
